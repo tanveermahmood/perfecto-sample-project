@@ -1,0 +1,6 @@
+txt.itemname.fieldservices = {\"locator\":\"xpath=.//*[contains(@resource-id,\\\"detail_tv_title\\\")]\"}
+txt.servicesname.fieldservices = {\"locator\":\"xpath=.//*[contains(@resource-id,\\\"detail_tv_category\\\")]\"}
+txt.address.fieldservices = {\"locator\":\"xpath=.//*[contains(@resource-id,\\\"detail_tv_address\\\")]\"}
+txt.addphoto.fieldservices = {\"locator\":\"xpath=.//*[@text=\\\"Attach Photo\\\"]\"}
+txt.notes.fieldservices = {\"locator\":\"xpath=.//*[@text=\\\"Notes\\\"]\"}
+input.note.fieldservices = {\"locator\":\"xpath=//*[contains(@resource-id,\\\"detail_et_note\\\")]\"}

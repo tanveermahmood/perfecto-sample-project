@@ -1,0 +1,5 @@
+header.bar.container = {\"locator\":\"xpath=//UIANavigationBar\"}
+btn.logout.header = {\"locator\":\"xpath=//UIAButton[@name='Logout']\",\"desc\":\"TextView for Logout\"}
+btn.scan.header = {\"locator\":\"xpath=//UIAButton[@name='Scan']\",\"desc\":\"TextView for Scan\"}
+txt.screen.header = {\"locator\":\"xpath=//UIANavigationBar//UIAStaticText\",\"desc\":\"TextView for Field Service\"}
+btn.back.header = {\"locator\":\"xpath=//UIAButton[@name='Back']\"}

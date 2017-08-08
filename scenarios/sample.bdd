@@ -1,0 +1,10 @@
+
+
+SCENARIO: ValidLoginBDDTest
+META-DATA: {"description":"this test verifies valid user login"}
+	
+	Given I open application
+	When I login with '${login.user.email}' and '${login.user.password}'
+	Then I should see user home screen
+	
+END

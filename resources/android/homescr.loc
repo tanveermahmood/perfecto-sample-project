@@ -1,0 +1,5 @@
+FieldService.itemlist = {\"locator\":\"xpath=//*[contains(@resource-id,'activity_maps_listJobs')]//android.widget.RelativeLayout\",\"desc\":\"List of Items of FeldService\"}
+FieldService.itemname = {\"locator\":\"xpath=.//android.widget.TextView[1]\",\"desc\":\"List of Item Names\"}
+FieldService.servicename = {\"locator\":\"xpath=.//android.widget.TextView[2]\",\"desc\":\"List of Item service name\"}
+FieldService.distances = {\"locator\":\"xpath=.//android.widget.TextView[3]\",\"desc\":\"List of Distances\"}
+FieldService.Map = {\"locator\":\"xpath=//*[@content-desc=\\\"Google Map\\\"]\"}
